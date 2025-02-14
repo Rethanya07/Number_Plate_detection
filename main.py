@@ -52,4 +52,4 @@ def extract_num(img_name):
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-extract_num('car7.jpg')
+extract_num('car1.jpg')
